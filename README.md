@@ -1,13 +1,12 @@
-# your_first_code
-jdcm
-A very simple snippet of C code, for Holberton School's admissions.
-
-@@ -3,7 +3,7 @@ int main ()
+@@ -1,9 +1,9 @@
+int  main ()
+{
   int i;
-  para (i = 0 ; i < 32 ; i ++)
+  para (i = 0 ; i < 10 ; i ++) 
+  para (i = 1 ; i < = 32 ; i ++)
   {
     printf ( " Holberton \ n " );
-    printf ( " Hello School \ n " );
+    printf ( " Hola Holberton \ n " );
   }
   return  0 ;
 }
